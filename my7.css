@@ -1,0 +1,87 @@
+*{
+    margin:0%;
+    padding:0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-repeat: no-repeat;
+    background-color:white;
+    
+}
+.menu{
+    width:100%;
+    height:8vh;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    text-transform: capitalize;
+    background-color: white;
+
+}
+.div{
+    padding-top:10px ;
+    cursor:alias;
+}
+h5{
+    text-transform:none;
+    margin: 7px;
+}
+h6{
+    margin: 10px;
+    padding: 5px;
+}
+.main{
+    width:100%;
+    height:94%;
+    padding-top:65px;
+    text-transform: capitalize;
+  
+}
+.table{
+    background-color:white;
+    margin: 5px;
+    border:2px  rgb(174, 160, 160);
+    border-collapse: collapse;
+    border-style: inset;
+}
+.form{
+    margin: 10px;
+    color:black;
+    background-color: rgb(180, 184, 182);
+
+}
+input,select{
+    padding: 10px;
+    align-items: center;
+}
+.donot{
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tr{
+    padding:10px;
+    offset-distance: unset;
+}
+td{
+    margin: 0px;
+    padding: 5px;
+}
+.mai {
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
